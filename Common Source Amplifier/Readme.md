@@ -1,5 +1,5 @@
-Common Source
-Gate : Input:  Vsin : Va= 10m
+#Common Source
+##Gate : Input:  Vsin : Va= 10m
             : frequency = 1k Hz
 Drain: output         
 source: Grounded 
