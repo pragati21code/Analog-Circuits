@@ -1,14 +1,14 @@
-# Common Source <br>
-##Gate : Input:  Vsin : Va= 10m
-            : frequency = 1k Hz
-Drain: output         
-source: Grounded 
-Supply: 1.8V
-Voltage Gain: High, depending on the transconductance (
-Load resistor: 5K
-Phase Shift: The output signal is inverted (180° phase difference from the input).
-Input Impedance: High (due to the gate being insulated).
-Output Impedance: Moderate.
+# COMMON SOURCE AMPLIFIER  <br>
+Gate : Input:  Vsin : Va= 10m <br>
+            : frequency = 1k Hz <br>
+Drain: output  <br>       
+source: Grounded <br>
+Supply: 1.8V <br>
+Voltage Gain: High, depending on the transconductance <br>
+Load resistor: 5K <br>
+Phase Shift: The output signal is inverted (180° phase difference from the input).<br>
+Input Impedance: High (due to the gate being insulated). <br>
+Output Impedance: Moderate. <br>
 Schematic Of Common Source Amplifier 180 nm Cadence Virtuoso 
 
 ![common Source Schematic](https://github.com/user-attachments/assets/6cce001d-f513-48f6-8b33-5a7a8f1ca82c)
