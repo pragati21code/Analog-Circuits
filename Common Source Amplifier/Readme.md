@@ -21,3 +21,6 @@ Dc Response
 Transient Response 
 ![cs trans](https://github.com/user-attachments/assets/7ddd3fda-e4b0-4489-b600-f7d2e2902ea3)
 
+ Parametric analysis 10K-100K 
+ ![image](https://github.com/user-attachments/assets/f2fdf5fb-7cbb-47fe-a53f-92fe52f58d5c)
+
