@@ -1,7 +1,7 @@
 # COMMON SOURCE AMPLIFIER  <br>
 Gate : Input:  Vsin : Va= 10m <br>
             : frequency = 1k Hz <br>
-Drain: output  <br>       
+Drain: output <br>       
 source: Grounded <br>
 Supply: 1.8V <br>
 Voltage Gain: High, depending on the transconductance <br>
